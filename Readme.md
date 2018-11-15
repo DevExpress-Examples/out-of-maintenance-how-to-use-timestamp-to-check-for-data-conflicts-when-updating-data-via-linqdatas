@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataClasses.designer.cs](./CS/WebSite/App_Code/DataClasses.designer.cs) (VB: [DataClasses.designer.vb](./VB/WebSite/App_Code/DataClasses.designer.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to use timestamp to check for data conflicts when updating data via LinqDataSource
 
 
